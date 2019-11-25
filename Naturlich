@@ -12,6 +12,6 @@ cin<<a;
 if (a<>4)
 cout<<"Правильно";
 else 
-cout<<"Вам в ПТУ";
+cout<<"Вам в ПТУ ili v XRTK";
 return o;
 }
