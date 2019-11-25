@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std
+int main(){
+cout<<"Привет всем";
+cout<<"Введите 1 для продолжение или 2";
+cin>>"Привет всем";
+If(a=1)
+cout<<"Победа";
+else cout<<"Проигрышь";
+return o;
+}
