@@ -13,5 +13,6 @@ if (a<>4)
 cout<<"Правильно";
 else 
 cout<<"Вам в ПТУ ili v XRTK";
+cout<<"SPS ZA GRU V KAZINO";
 return o;
 }
